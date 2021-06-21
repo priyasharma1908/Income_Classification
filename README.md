@@ -1,5 +1,7 @@
 # Income Classification
 
+In this project, we have to identify the income segment of a given category of customer. It is a binary classification problem.
+
 **The data contains number of people in column (fnlwgt) belonging to various segments described below**
 
 1. age: the age of an individual: Integer greater than 0
